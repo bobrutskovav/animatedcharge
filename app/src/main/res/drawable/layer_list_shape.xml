@@ -1,0 +1,12 @@
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <item
+        android:drawable="@drawable/shape_green_rect"
+        >
+    </item>
+    <item android:drawable="@drawable/clip"></item>
+    <item
+        android:drawable="@mipmap/flash"
+        android:gravity="center"></item>
+</layer-list>
